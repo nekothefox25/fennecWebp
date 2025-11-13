@@ -1,5 +1,6 @@
 # fennecWebp
-a image converter that takes jpgs and pngs and turns them into webp images using github.com/chai2010/webp library
+a image converter that takes jpgs and pngs and turns them into webp images using github.com/chai2010/webp library.
+This program is under the 3-clause BSD Licence
 
 ![Logo](./fennecWebpLogo.png)
 
